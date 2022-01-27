@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/niranjan/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1946405582.index
+/SpringProject/src/main/resources
+/home/niranjan/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4255971679.index
+/SpringProject/src/main/resources

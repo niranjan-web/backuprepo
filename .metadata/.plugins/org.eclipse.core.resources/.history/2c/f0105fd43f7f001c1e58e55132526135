@@ -1,0 +1,15 @@
+package controller;
+
+public class ControllerClass {
+	@RequestMapping("/display")
+	public void displayMethod()
+	{
+		System.out.println("this is a display method");
+	}
+	 @RequestMapping("/home")  // Request Handler
+     public String home()
+     {
+           return "home";
+     }
+
+}
